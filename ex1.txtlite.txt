@@ -1,21 +1,3 @@
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-1 of 119
-SQL queries
-Inbox
-
-daksh zala <dakshzala150@gmail.com>
-Attachments
-8:29 AM (3 minutes ago)
-to me
-
-
- 2 Attachments
-  •  Scanned by Gmail
 SQL> CREATE TABLE DEPOSIT(
   2  ACTNO NUMBER(5),
   3  CNAME VARCHAR2(15),
@@ -331,5 +313,3 @@ SQL> COMMIT;
 Commit complete.
 
 SQL> SPOOL OFF;
-exp1.txt
-Displaying exp1.txt.
